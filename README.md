@@ -6,7 +6,7 @@ This repository is the go lang self learn of my self.
 
 # Still Adding some lession for this tutoril
 
-![golang-logo-image](https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png)
+<img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" alt="golang-logo-image" width="200"/>
 
 ## Try Go
 
