@@ -27,4 +27,16 @@ func main() {
 	f := "apple"
 	fmt.Println(f)
 
+	// syntax for declaring variables
+	//var x1 int // var keyword -> variable name -> data type
+
+	//data types examples
+	var x int = 10              //int -> 32 or 64 bit
+	var y float64 = 10.5        //float64 -> 64 bit
+	var z string = "Hello"      //string -> 16 bit
+	var a1 bool = true          //bool -> 1 bit
+	var b1 byte = 'A'           //byte -> 8 bit
+	var c1 rune = 'B'           //rune -> 32 bit
+	var d1 complex128 = 10 + 5i //complex128 -> 128 bit
+	fmt.Println(x, y, z, a1, b1, c1, d1)
 }
