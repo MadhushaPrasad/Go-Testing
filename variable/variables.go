@@ -31,12 +31,12 @@ func main() {
 	//var x1 int // var keyword -> variable name -> data type
 
 	//data types examples
-	var x int = 10              //int -> 32 or 64 bit
-	var y float64 = 10.5        //float64 -> 64 bit
-	var z string = "Hello"      //string -> 16 bit
-	var a1 bool = true          //bool -> 1 bit
-	var b1 byte = 'A'           //byte -> 8 bit
-	var c1 rune = 'B'           //rune -> 32 bit
-	var d1 complex128 = 10 + 5i //complex128 -> 128 bit
+	var x int = 10              //int -> 32 or 64 bit  => use for assigning integer values
+	var y float64 = 10.5        //float64 -> 64 bit => use for assigning decimal values
+	var z string = "Hello"      //string -> 16 bit => use for assigning string values
+	var a1 bool = true          //bool -> 1 bit => use for assigning boolean values
+	var b1 byte = 'A'           //byte -> 8 bit => use for assigning single character values
+	var c1 rune = 'B'           //rune -> 32 bit => use for assigning single character values especially for unicode characters
+	var d1 complex128 = 10 + 5i //complex128 -> 128 bit => use for assigning complex values
 	fmt.Println(x, y, z, a1, b1, c1, d1)
 }
