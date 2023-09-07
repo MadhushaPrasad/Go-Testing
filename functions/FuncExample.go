@@ -2,7 +2,6 @@ package functions
 
 import "fmt"
 
-// FuncExample what is a function?
 // a function is a block of code that performs a specific task
 // a function is a reusable block of code
 // a function is a collection of statements that are grouped together to perform an operation
